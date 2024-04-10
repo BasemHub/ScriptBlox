@@ -7,8 +7,8 @@ loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "Credits to the owner of this script.";
-Title = "Thank You For Supporting Andro Scripts :).";
+Description = "Text";
+Title = "Text";
 Duration = 10;
 });
 
