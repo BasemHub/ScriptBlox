@@ -12,9 +12,22 @@ Title = "Text";
 Duration = 10;
 });
 
-_G.AutoClick = true
-while _G.AutoClick == true do
 
+
+_G.Basem = true
+while _G.Basem == true do
 end
 
-math.huge - inf
+
+
+_G.Basem = true
+
+while wait() do
+  if _G.Basem then
+
+  end
+end
+
+
+math.huge
+math.random
