@@ -11,3 +11,10 @@ Description = "Credits to the owner of this script.";
 Title = "Thank You For Supporting Andro Scripts :).";
 Duration = 10;
 });
+
+_G.AutoClick = true
+while _G.AutoClick == true do
+
+end
+
+math.huge - inf
